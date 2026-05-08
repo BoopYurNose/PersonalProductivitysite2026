@@ -1,0 +1,1 @@
+Files for the html code for ranking my favorite shit and stuff lmao
