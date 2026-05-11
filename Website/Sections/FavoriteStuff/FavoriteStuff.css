@@ -27,3 +27,34 @@ nav a{
 nav a:hover{
     background-color: rgb(90, 90, 90);
 }
+
+h2{
+    text-align: center;
+}
+
+h3{
+    display: flex;
+    justify-content: center;
+    position: relative;
+    color: white;
+    font-family: arial;
+}
+
+.DropDownMenu{
+    position: absolute;
+    max-width: 100px;
+    background-color: rgb(47, 46, 46);
+    padding: 10px 10px;
+}
+
+.DropDownMenu .DropDownItems{
+    display: none;
+}
+
+.DropDownMenu:hover .DropDownItems{
+    display: block;
+}
+
+.DropDownMenu:hover{
+    background-color: rgb(15, 15, 15);
+}
