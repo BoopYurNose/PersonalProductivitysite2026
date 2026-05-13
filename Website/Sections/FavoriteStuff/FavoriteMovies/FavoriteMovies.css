@@ -41,17 +41,35 @@ h3{
 }
 
 .FavoriteBoxes div{
+    display: inline-block;
     background-color: white;
-    width: 100px;
-    padding: 10px 10px;
+    width: 200px;
     border-radius: 10px;
     margin: 40px;
-    height: 100px;
+    height: 250px;
     border: 3px solid;
+    overflow: hidden;
+    filter: brightness(100%);
 }
 
 .FavoriteBoxes h2{
     position: relative;
     margin-top: auto;
     font-family: arial;
+    font-size: 1em;
+    padding: 5px 2px 0px 2px;
 }
+
+.FavoriteBoxes img{
+    display: inline-block;
+    Position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.FavoriteBoxes div:hover{
+    filter: brightness(75%);
+}
+
+
+
