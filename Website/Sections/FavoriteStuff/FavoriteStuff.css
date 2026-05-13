@@ -1,13 +1,13 @@
 body{
     margin: 0px;
     background-color: rgb(128, 128, 128);
+    font-family: arial;
 }
 
 header{
     text-align: center;
     background-color: rgb(231, 231, 231);
     padding: 15px;
-    font-family: arial;
 }
 
 nav{

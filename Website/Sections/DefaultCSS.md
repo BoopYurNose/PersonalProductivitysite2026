@@ -1,0 +1,31 @@
+body{
+    margin: 0px;
+    background-color: rgb(128, 128, 128);
+    font-family: arial;
+}
+
+header{
+    text-align: center;
+    background-color: rgb(231, 231, 231);
+    padding: 15px;
+    font-family: arial;
+}
+
+nav{
+    text-align: center;
+    background-color: rgb(55, 55, 55);
+    padding: 15px;
+
+}
+
+nav a{
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+    font-family: arial;
+    padding: 15px;
+}
+
+nav a:hover{
+    background-color: rgb(90, 90, 90);
+    text-shadow: 2px 2px 5px white;
+}

@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title>My favorite stuff :3</title>
+        <link rel = "stylesheet" href = "FavoriteStuff.css">
+    </head>
+
+    <body>
+        <header>
+            <h2>Welcome to my (insert subject thing here)</h2>
+        </header>
+
+        <nav>
+            <a href = "../../Homepage.html">Homepage</a>
+        </nav>
+
+        <section>
+            <h2>This is basically a list of all my favorite stuff, I pretty much just made this for fun, this is my own opinion on stuff click on the dropdown menu below to view this (I think I'll design this better later)</h2>
+
+            <h3>
+                Empty
+
+            </h3>
+        </section>
+
+        <footer>
+
+        </footer>
+    </body>
+</html>
