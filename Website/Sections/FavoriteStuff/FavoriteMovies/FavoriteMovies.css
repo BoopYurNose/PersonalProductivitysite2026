@@ -42,6 +42,16 @@ h3{
 
 .FavoriteBoxes div{
     background-color: white;
-    max-width: 15px;
-    padding: 10px 10px; /*CONTINUE WORKING ON THIS OKAY?*/
+    width: 100px;
+    padding: 10px 10px;
+    border-radius: 10px;
+    margin: 40px;
+    height: 100px;
+    border: 3px solid;
+}
+
+.FavoriteBoxes h2{
+    position: relative;
+    margin-top: auto;
+    font-family: arial;
 }
