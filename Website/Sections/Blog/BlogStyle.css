@@ -38,3 +38,38 @@ h1{
     margin: 10px;
     width: 95%;
 }
+
+.PostButton{
+    margin: 10px;
+    padding: 10px 10px;
+    height: 15%;
+    width: 15%;
+    background-color: gray;
+}
+
+.PostButton:hover{
+    box-shadow: 2px 2px 5px white;
+}
+
+.BlogPost{
+    background: white;
+    position: relative;
+    margin: 10px;
+    border: solid 3px;
+
+}
+
+.Date{
+    color: black;
+    
+}
+
+.Title{
+    margin: 10px 10px;
+    border-bottom: solid 2px;
+}
+
+h3{
+    padding: 10px 10px;
+}
+
